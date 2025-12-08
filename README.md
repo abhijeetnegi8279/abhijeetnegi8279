@@ -18,9 +18,9 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy [My Hobby or Passion, creating content, hiking, mentoring others]. I love the "aha!" moment when data reveals something new and useful.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+<!-- 🌐 Replace "Abhijeet Singh" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
@@ -29,10 +29,11 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
-## 🌱 Currently Learning 
+## 🌱 Currently Learning & Focusing On
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+-[I have updated this section to reflect common and crucial skills for a Data Analys.]
+- [New Technique: Mastering Advanced SQL Techniques for complex data querying. ]
+- [Core Data Science: Focusing on efficint data cleaning and manipultion using the NumPy and Pandas libraries in Python.]
 
 ## 🛠️ Technical Skillset
 
