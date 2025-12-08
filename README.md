@@ -8,7 +8,7 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="[https://linkedin.com/in/your-profile-ur](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=abhijeet-singh-6456a8325)l"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
@@ -31,7 +31,7 @@ When I'm not working with data, I enjoy [My Hobby or Passion, creating content, 
 
 ## 🌱 Currently Learning & Focusing On
 
--[I have updated this section to reflect common and crucial skills for a Data Analys.]
+- [I have updated this section to reflect common and crucial skills for a Data Analysis.]
 - [New Technique: Mastering Advanced SQL Techniques for complex data querying. ]
 - [Core Data Science: Focusing on efficint data cleaning and manipultion using the NumPy and Pandas libraries in Python.]
 
